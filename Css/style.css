@@ -1,0 +1,124 @@
+#Titulo {
+    font: oblique bold 120% cursive;
+}
+
+.foto1 {
+    width: 100px;
+    height: 65px;
+}
+#color {
+    background-color: black;
+}
+
+a{
+    color: aliceblue;
+}
+
+#color2{
+    font-size: large;
+}
+
+
+.carousel-wrapper {
+    height: 100%;
+    max-height: calc(100vh - 91px);
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    display: block;
+    width: 100%;
+    z-index: 99;
+}
+
+body {
+    position: relative;
+}
+
+.navbar-wrapper{
+    position: relative;
+}
+
+.tipos-wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+}
+
+h2{
+    color: #4CAF50;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    line-height: 1.6;
+    color: #000;
+    
+}
+
+.definition, .types, .prevention {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+ #hack{
+    width: 286pxpx;
+    height: 215px;
+ }
+
+ #imagen22{
+    width: 900px;
+    height: 1100px;
+ }
+
+ #texto{
+    color: #f4f4f9;
+ }
